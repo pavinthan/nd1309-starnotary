@@ -5,6 +5,15 @@
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
 
+### Contract Details
+This contract deployed in [rinkeby](https://rinkeby.etherscan.io/tx/0xc0f6a87c509e916d372cfb9e94a9f44b495512db246014aaef0b158f56b03b2c) public network:
+```bash
+ERC-721 Token Name: Udacity Star Notary
+ERC-721 Token Symbol: USN
+Contract Address: 0x549aca6c8126bb7886ebf0140563f446b896929b
+Transaction Hash: 0xc0f6a87c509e916d372cfb9e94a9f44b495512db246014aaef0b158f56b03b2c
+```
+
 ### System Specification
 For this project, I used:
 ```bash
