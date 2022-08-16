@@ -1,0 +1,27 @@
+{
+  "name": "nd1309-starnotary",
+  "version": "1.0.0",
+  "description": "**PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavinthan/nd1309-starnotary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavinthan/nd1309-starnotary/issues"
+  },
+  "homepage": "https://github.com/pavinthan/nd1309-starnotary#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^4.6.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
