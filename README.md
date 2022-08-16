@@ -5,6 +5,16 @@
 This Starter Code has already implemented the functionalities you implemented in the StarNotary (Version 2) exercise, and have comments in all the files you need to implement your tasks.
 
 
+### System Specification
+For this project, I used:
+```bash
+Nodejs: v16.16.0
+NPM: 8.11.0
+Truffle: v5.5.26
+ganache: v7.4.1 (@ganache/cli: 0.5.1, @ganache/core: 0.5.1)
+solidity: ^0.8.16
+openzeppelin-solidity: 4.6.0
+```
 
 ### Dependencies
 For this project, you will need to have:
